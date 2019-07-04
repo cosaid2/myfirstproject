@@ -1,0 +1,11 @@
+let favFilms =[
+    "Mars Attack{
+        "version": "0.2.0",
+        "configurations": 
+        "compounds": []
+    }"The Lion King 2: Simba's Pride{
+        "version": "0.2.0",
+        "configurations": [],
+        "compounds": []
+    }
+]
